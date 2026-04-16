@@ -237,7 +237,8 @@ ORDER BY total_profit DESC;
 
 ### 📸 Dashboard Preview
 
-![Dashboard Screenshot](./dashboard.png)
+<img width="1441" height="805" alt="Sales analysis dashboard project" src="https://github.com/user-attachments/assets/c1dad4b7-0a2c-4ab2-9aea-ec6a264ca8ab" />
+
 
 ---
 
